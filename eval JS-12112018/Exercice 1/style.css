@@ -1,0 +1,13 @@
+.section_gauche{
+    width: 75%;
+    border: 1px solid black;
+}
+
+.section_droite{
+    width: 25%;
+    border: 1px solid black;
+}
+
+img{
+    margin: 10px;
+}
